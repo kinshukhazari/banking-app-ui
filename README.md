@@ -27,3 +27,6 @@ The `dist` folder can be hosted on GitHub Pages, Vercel or Netlify.
 ## Tech
 
 React 18, Vite, plain CSS, Poppins (Google Fonts).
+
+
+My First design Using Figma.
